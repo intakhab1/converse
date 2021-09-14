@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "928479701684",
+    "project_id": "converse-c1338",
+    "storage_bucket": "converse-c1338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928479701684:android:af305336afdff6dee885e1",
+        "android_client_info": {
+          "package_name": "co.Intakhab.Converse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928479701684-gkt6a2m3g2dneec0p3edcbotu6fsihii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76fdtZAcEBYJpmuX31jSvQhLD2zFYcOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928479701684-gkt6a2m3g2dneec0p3edcbotu6fsihii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928479701684:android:a9dc6849fd106b7ae885e1",
+        "android_client_info": {
+          "package_name": "co.IntakhabAlam.converse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928479701684-gkt6a2m3g2dneec0p3edcbotu6fsihii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76fdtZAcEBYJpmuX31jSvQhLD2zFYcOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928479701684-gkt6a2m3g2dneec0p3edcbotu6fsihii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
